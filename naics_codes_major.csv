@@ -1,0 +1,25 @@
+naics_code,major_ind
+11,"Agriculture, Forestry, Fishing and HuntingT"
+21,"Mining, Quarrying, and Oil and Gas ExtractionT"
+22,UtilitiesT
+23,ConstructionT
+31,ManufacturingT
+32,ManufacturingT
+33,ManufacturingT
+42,Wholesale TradeT
+44,Retail TradeT
+45,Retail TradeT
+48,Transportation and WarehousingT
+49,Transportation and WarehousingT
+51,InformationT
+52,Finance and InsuranceT
+53,Real Estate and Rental and LeasingT
+54,"Professional, Scientific, and Technical ServicesT"
+55,Management of Companies and EnterprisesT 
+56,Administrative and Support and Waste Management and Remediation ServicesT
+61,Educational ServicesT
+62,Health Care and Social AssistanceT
+71,"Arts, Entertainment, and RecreationT"
+72,Accommodation and Food ServicesT
+81,Other Services (except Public Administration)T
+92,Public AdministrationT
